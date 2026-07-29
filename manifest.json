@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "DNAcademy Image Full Width",
+  "version": "1.0.0",
+  "description": "Forces .arte__image blocks to 100% width on community.godaddy.com",
+  "content_scripts": [
+    {
+      "matches": ["https://community.godaddy.com/*"],
+      "css": ["styles.css"],
+      "run_at": "document_start"
+    }
+  ]
+}

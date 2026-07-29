@@ -1,4 +1,3 @@
-```markdown
 # DNAcademy Image Full Width
 
 Minimal Chrome extension that forces `.arte__image` blocks on community.godaddy.com to 100% width.
@@ -49,4 +48,3 @@ dnacademy-image-fullwidth/
 ## License
 
 MIT
-```
